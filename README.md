@@ -5,7 +5,12 @@ Teaca Elena;
 Andrei Cartan
 Dragos Marcinschi;
 Cervac Vlad;
-Chisinau 2023;
+Chisinau 2023
+Andreea Manole
+Iosif Mina
 Maxim Tobultoc;
 Mina Iosif
 Florin Dragoman
+
+
+
