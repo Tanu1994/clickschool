@@ -8,3 +8,4 @@ Cervac Vlad;
 Chisinau 2023;
 Maxim Tobultoc;
 Mina Iosif
+Florin Dragoman
